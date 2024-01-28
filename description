@@ -6,6 +6,7 @@ Features:
 - EC2 Instances: Create and customize scalable EC2 instances tailored to your application's needs.
 - S3 Buckets: Seamlessly manage object storage with flexible S3 bucket configurations.
 - DynamoDB Tables: Leverage DynamoDB for fast and reliable NoSQL database solutions, customizable to suit your data requirements.
+- State of the art state locking.
 
 Why Choose CustomAWSModule?
 - Modular Design: Adaptable architecture enables easy integration into various projects.
